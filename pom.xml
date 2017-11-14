@@ -6,7 +6,11 @@
 
     <groupId>com.tnn</groupId>
     <artifactId>prototypes</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>vertx-trials</module>
+    </modules>
 
 </project>
